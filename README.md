@@ -1,4 +1,4 @@
-![CPCoin Node API Logo](logo.png)
+![CPCoin Node API Logo](https://github.com/cpc-devs/CPCoin-Node-API/raw/master/logo.png)
 
 # CPCoin Node API
 CPCoin Node API features and library for Node.js and browser, enabling easy connection with Node REST API.
