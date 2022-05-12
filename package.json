@@ -1,0 +1,28 @@
+{
+  "name": "cpcoin-node-api",
+  "version": "1.0.1",
+  "description": "Package facilitating the use of CPCoin Node API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpc-devs/CPCoin-Node-API.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "cpcoin"
+  ],
+  "author": "CPCoin Dev Team",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "axios-cache-adapter": "^2.7.3",
+    "axios-retry": "^3.2.4"
+  }
+}
